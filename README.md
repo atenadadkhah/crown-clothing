@@ -3,5 +3,6 @@ A single-page e-commerce application using Firebase. The site offers a seamless 
 
 ## Technologies
 1. React
-2. Firebase
-3. CSS In JS
+2. Redux
+3. Firebase
+4. CSS In JS
